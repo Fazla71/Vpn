@@ -1,0 +1,6 @@
+{
+  "name": "Proximity VPN",
+  "description": "Fast and secure VPN client powered by public VPNGate servers, featuring live latency radar, best server auto-routing, and dark cyber dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

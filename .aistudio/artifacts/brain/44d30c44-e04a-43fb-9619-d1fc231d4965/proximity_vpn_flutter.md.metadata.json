@@ -1,0 +1,5 @@
+{
+  "summary":  "Complete, production-ready Flutter codebase for Proximity VPN, including pubspec.yaml, main.dart with dark cyber SuperVPN-style dashboard, vpn_service.dart integrating openvpn_flutter with VPNGate CSV parsing and Base64 config decoding, server_list_screen.dart with search and latency badges, and AndroidManifest.xml setup.",
+  "updatedAt":  "2026-10-22T17:17:16.072839646Z",
+  "userFacing":  true
+}
